@@ -1,4 +1,4 @@
-def contagemRegressiva(n=30):
+def contagemRegressiva(n=100):
     while(n):
         print(n)
         n = n-1
@@ -7,4 +7,4 @@ def contagemRegressiva(n=30):
           print('decolar')
     else:
           print(n)
-contagemRegressiva(n=30)
+contagemRegressiva(n=100)
